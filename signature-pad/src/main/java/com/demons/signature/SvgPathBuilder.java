@@ -1,10 +1,8 @@
-package com.github.gcacace.signaturepad.utils;
+package com.demons.signature;
 
 
 /**
  * Build a SVG path as a string.
- *
- * https://www.w3.org/TR/SVGTiny12/paths.html
  */
 public class SvgPathBuilder {
 

@@ -1,4 +1,4 @@
-package com.github.gcacace.signaturepad.utils;
+package com.demons.signature;
 
 public class TimedPoint {
     public float x;

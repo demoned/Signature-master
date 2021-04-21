@@ -1,7 +1,6 @@
-package com.github.gcacace.signaturepad.utils;
+package com.demons.signature;
 
 public class SvgBuilder {
-
     private final StringBuilder mSvgPathsBuilder = new StringBuilder();
     private SvgPathBuilder mCurrentPathBuilder = null;
 

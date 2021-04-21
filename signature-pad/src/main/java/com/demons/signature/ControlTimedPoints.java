@@ -1,10 +1,6 @@
-package com.github.gcacace.signaturepad.utils;
+package com.demons.signature;
 
-/**
- * Created by gcacace on 28/02/14.
- */
 public class ControlTimedPoints {
-
     public TimedPoint c1;
     public TimedPoint c2;
 

@@ -1,7 +1,6 @@
-package com.github.gcacace.signaturepad.utils;
+package com.demons.signature;
 
 public class Bezier {
-
     public TimedPoint startPoint;
     public TimedPoint control1;
     public TimedPoint control2;
